@@ -1,6 +1,9 @@
-• Added SendKeys
-• Added ZipBomb
-• Fixed Some Bugs
-	›› Fixed Speak
-	›› Fixed module imports
-	›› Fixed BSoD on shutdown
+🦠 Changes in the Python version from version 2 to version 3
+🦠 More modules were added to the library.
+🦠 More speed was added for data extraction.
+🦠 Add anti-virus bypass (top version).
+🦠 Run on all versions of Windows.
+🦠 Faster call added to Telegram robot.
+🦠 More commands added.
+🦠 Fix existing bugs
+🦠 Elimination of slow extraction speed
