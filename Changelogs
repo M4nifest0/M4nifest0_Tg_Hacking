@@ -1,0 +1,6 @@
+• Added SendKeys
+• Added ZipBomb
+• Fixed Some Bugs
+	›› Fixed Speak
+	›› Fixed module imports
+	›› Fixed BSoD on shutdown
