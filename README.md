@@ -80,4 +80,4 @@
 
 ##### See Training 
 
-- 🔞 See Training 🎥 https://youtu.be/jHYW1tBFpQo  🎥
+- 🔞 See Training 🎥 https://youtu.be/l4wzibLeV5g  🎥
